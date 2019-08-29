@@ -1,1 +1,1 @@
-
+I used MySQL, Python and PyQt5. To run the code you need to have these on your computer. When you run the code you need the terminal/command prompt open along side because the code requests the password for the 'root' user in the MySQL database. Also, events are printed out so that you know what you are doing when you do an action in the GUI for the food log.
